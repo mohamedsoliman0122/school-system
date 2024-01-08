@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1665364281 source:d:\c\schoola\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	"student.c"
+	<conio.h>
+	<windows.h>
+
+1665364101 d:\c\schoola\student.h
+
+1665364338 d:\c\schoola\student.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<MMsystem.h>
+
+1665360681 source:m:\embedded system\codes\c\schoola\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	"student.c"
+	<conio.h>
+	<windows.h>
+
+1665360501 m:\embedded system\codes\c\schoola\student.h
+
+1665360738 m:\embedded system\codes\c\schoola\student.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<MMsystem.h>
+
